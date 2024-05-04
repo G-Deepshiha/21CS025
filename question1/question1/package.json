@@ -1,0 +1,11 @@
+{
+  "name": "question1",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.6.8",
+    "g": "^2.0.1",
+    "json-server": "^1.0.0-alpha.23",
+    "react-router-dom": "^6.23.0"
+  }
+}
